@@ -1,4 +1,4 @@
-# ConsultPrep - A Personal Learning Platform for Consulting Interviews
+# ConsultPrep - A Personal Learning Platform for Consulting Interviews (check demo mode and WIP version on the link following : https://consultprep.vercel.app/ )
 
 ## About This Project
 
