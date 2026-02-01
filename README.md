@@ -68,21 +68,6 @@ To keep things interesting, I added a gamification layer:
 
 ---
 
-## How I Built It
-
-I'm not a professional developer — I have some basic coding background, but I've mostly learned by doing. For this project, I took what I'd call a "vibe coding" approach: starting with a rough idea, experimenting, breaking things, and iterating until something worked.
-
-**The tech side (in simple terms):**
-- Built with **Next.js** — a popular framework for web apps that handles both the frontend and backend
-- Styled with **Tailwind CSS** — a utility-based approach that makes it easy to design without writing custom CSS
-- State management with **Zustand** — a lightweight way to keep track of data like user progress
-- Charts with **Recharts** — for the skill radar visualization
-- Everything runs in the browser, with data stored locally (no database setup needed)
-
-I used **Claude** (AI assistant) extensively to help me write code, debug issues, and learn best practices as I went. It was genuinely like having a patient mentor available 24/7.
-
----
-
 ## What's Next
 
 This is far from finished. Some things I'd like to add:
